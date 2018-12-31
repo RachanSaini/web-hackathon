@@ -11,6 +11,8 @@ body {
     height: 100%;
     z-index: 100;
     }
+nav{
+    background-color: #9BE5F3;
 }
 nav div {
     font-size: 1.5rem;
